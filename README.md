@@ -41,7 +41,7 @@ Configuration
 
 The style is "fundamental" by default, configure this using the
 `g:hindent_style` variable, such as
-``` vimrc
+```vim
 let g:hindent_style = "gibiansky"
 ```
 
