@@ -6,6 +6,8 @@ Vim plugin for the Haskell formatter
 provided by hindent, but in a format suitable for inclusion using Vundle or
 NeoBundle.
 
+![gif](https://raw.githubusercontent.com/octol/vim-hindent/master/screencast.gif)
+
 Prerequisite
 ------------
 
